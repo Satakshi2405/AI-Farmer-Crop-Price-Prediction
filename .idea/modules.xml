@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/FarmerPricePredictor.iml" filepath="$PROJECT_DIR$/.idea/FarmerPricePredictor.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/FarmerUI.iml" filepath="$PROJECT_DIR$/FarmerUI.iml" />
+>>>>>>> 409bab39da86eed7fe6b5225d8dd98043056fb95
     </modules>
   </component>
 </project>
